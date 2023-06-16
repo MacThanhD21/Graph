@@ -1,0 +1,1 @@
+{"name":"Local: ThanhPhanLienThongManh","url":"e:\\IT\\C++\\DSA-T10\\Code\\Graph\\ThanhPhanLienThongManh.cpp","tests":[{"id":1676213567141,"input":"5 6\n1 2\n1 3\n2 3\n4 3\n5 3\n5 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\IT\\C++\\DSA-T10\\Code\\Graph\\ThanhPhanLienThongManh.cpp","group":"local","local":true}
